@@ -8,7 +8,8 @@ This is a github repository for the tool "USMMC" which has been developed and pr
 This _is not_ the original repository for the tool. Here are some links to the original project:
 
   - The official [Project Page] (http://www.comp.nus.edu.sg/~lius87/UMLSM.html).
-  - The [binaries] (http://www.comp.nus.edu.sg/~lius87/uml/USM2C.zip) of the tool
+  - The [binaries] (http://www.comp.nus.edu.sg/~lius87/uml/USM2C.zip) of the tool.
+  - Link to original [video] (http://www.comp.nus.edu.sg/~lius87/uml/demo/USMMC_demo.wmv)
   - The [PAT (Process Analysis Toolkit)] (http://pat.comp.nus.edu.sg/) Framework, which this tool was implemented in.
 
 In this repository for USMMC you will find:
