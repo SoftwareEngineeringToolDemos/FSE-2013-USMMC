@@ -1,0 +1,4 @@
+Double Click on the USMMC Tool icon.
+
+USMMC was built using the Process Analysis Toolkit Framework:
+Double Click the "PAT 3" icon to see the PAT framework which also includes tools similar to USMMC.
