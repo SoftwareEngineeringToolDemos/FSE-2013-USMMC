@@ -7,7 +7,7 @@ The binaries for vagrant can be found [here] (https://www.vagrantup.com/download
 
 The USMMC tools web site is [here] (http://www.comp.nus.edu.sg/~lius87/UMLSM.html)
 
-Follow this process to create the tool VM from scratch.  
+Follow this process to create the tool VM from scratch:  
 1. Download all files/folders under the "build-vm" folder.  
 2. Install Vagrant, if not already installed.  
 3. Open a command window.  
