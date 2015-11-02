@@ -11,6 +11,6 @@ Follow this process to create the tool VM from scratch:
 1. Download all files/folders under the "build-vm" folder.  
 2. Install Vagrant, if not already installed.  
 3. Open a command window.  
-4. Navigate to the location where the file were downloaded.  
+4. Navigate to the location where the files were downloaded.  
 5. Type "vagrant up".  
 6. After built, VM GUI will be displayed. There might be a prompt to restart. Please wait until the vagrant window returns to a prompt before rebooting.  
