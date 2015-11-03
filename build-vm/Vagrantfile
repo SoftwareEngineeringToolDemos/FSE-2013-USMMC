@@ -13,6 +13,10 @@ Vagrant.configure(2) do |config|
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
   config.vm.box = "modernIE/w7-ie11"
+  config.vm.hostname = "USMMC"
+  config.vm.provider :virtualbox do |vb|
+    vb.name = "USMMC"
+  end  
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
