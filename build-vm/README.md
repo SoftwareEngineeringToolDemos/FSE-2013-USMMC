@@ -3,7 +3,7 @@ This folder contains files and scripts used to build a virtual machine using Vag
 This VM will contain the "USMMC" Tool and the "Process Analysis Toolkit" Tool.
 
 A vagrant tutorial can be found [here] (https://docs.vagrantup.com/v2/getting-started/index.html)  
-The binaries for vagrant can be found [here] (https://www.vagrantup.com/downloads.html) 
+The binaries for vagrant can be found [here] (https://www.vagrantup.com/downloads.html)  
 The binaries and documentation for Oracle Virtual Box can be found [here] (https://www.virtualbox.org/) 
 
 The USMMC tools web site is [here] (http://www.comp.nus.edu.sg/~lius87/UMLSM.html)
