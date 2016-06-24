@@ -15,7 +15,7 @@ This _is not_ the original repository for the tool. Here are some links to the o
 In this repository for USMMC you will find:
 
   - :x: Source code (not available)
-  - :white_check_mark: [Link to the USMMC Binaries in this repository](/USMMCBinaries)
-  - :x: PAT Binaries and Source code (not available for distribution under the PAT License - Must use their web site above)
+  - :white_check_mark: [Binaries](/USMMCBinaries)
+  - :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Craig Kimpel](https://github.com/cskimpel) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
